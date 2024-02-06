@@ -66,6 +66,9 @@ select{
     height: 330px;
     object-fit: cover;
 }
+.top_offers{
+    display: flex;
+}
 .mainslider{
     display: flex;
     justify-content: center;
