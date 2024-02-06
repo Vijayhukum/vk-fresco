@@ -68,6 +68,9 @@ select{
 }
 .top_offers{
     display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
 }
 .mainslider{
     display: flex;
