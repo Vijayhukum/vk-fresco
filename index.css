@@ -67,6 +67,7 @@ select{
     object-fit: cover;
 }
 .top_offers{
+    margin-left:20px;
     display: flex;
     justify-content: center;
     width: 100%;
